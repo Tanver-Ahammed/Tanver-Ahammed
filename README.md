@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Tanver Ahammed <img height="40" src="https://emoji.gg/assets/emoji/7910-yes1.png"></h1>
+<h1 align="center">Hi 👋, I'm Tanver <img height="40" src="https://emoji.gg/assets/emoji/7910-yes1.png"></h1>
 <h3 align="center">A Competitive Programmer and Junior Front-End Developer</h3>
 
 - 🔭 I’m currently working on my **Problem Solving Skill & Java Programming**
