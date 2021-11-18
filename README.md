@@ -19,7 +19,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">My Languages and Tools:</h3>
 
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> 
