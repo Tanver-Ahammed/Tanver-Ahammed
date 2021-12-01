@@ -50,6 +50,12 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanver-Ahammed&theme=react&layout=compact" />
 </p>
 
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanver-Ahammed&layout=compact)](https://github.com/mainul35/mainul35)
+
+[![mainul35's github stats](https://github-readme-stats.vercel.app/api?username=Tanver-Ahammed)](https://github.com/mainul35/mainul35)
+</p>
+
 <!---Tanver-Ahammed/Tanver-Ahammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
