@@ -51,7 +51,7 @@
 </p>
 
 <p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanver-Ahammed&layout=compact)](https://github.com/mainul35/mainul35)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanver-Ahammed&layout=compact)](https://github.com/Tanver-Ahammed/Tanver-Ahammed)
 
 [![mainul35's github stats](https://github-readme-stats.vercel.app/api?username=Tanver-Ahammed)](https://github.com/mainul35/mainul35)
 </p>
