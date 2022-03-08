@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on ****
 
-- 📫 How to reach me: **hey@tanver.me**
+- 📫 How to reach me: **tanvermbstuit16@gmail.com**
 
 - ⚡ What I like to do: **I like so much Coding,Reading and Watching movies**
 
