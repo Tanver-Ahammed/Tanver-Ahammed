@@ -56,7 +56,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanver-Ahammed&theme=react&layout=compact" />
 </p>
 
-Thanks: <a href="https://github.com/masudursourav" target="_blank">Masudur Rahman Sourav</a>
 
 
 <!---Tanver-Ahammed/Tanver-Ahammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
