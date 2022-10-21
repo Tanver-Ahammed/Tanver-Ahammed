@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanver</h1>
-<h3 align="center">A Competitive Programmer and Back-End Developer</h3>
+<h3 align="center">A Competitive Programmer and Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on my **Problem Solving Skill & Java Programming**
 
