@@ -16,7 +16,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanver-ahammed-1968211b8/)
 [![image](https://img.shields.io/badge/Facebook-0B7CEA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.tanver.ahammed.756/)
-[![image](https://img.shields.io/badge/Twitter-0B7CEA?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/TanverAhammedAB/)
+[![image](https://img.shields.io/badge/Twitter-0B7CEA?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TanverAhammedAB/)
   
 </div>
 
